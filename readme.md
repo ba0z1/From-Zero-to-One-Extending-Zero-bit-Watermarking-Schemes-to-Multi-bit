@@ -1,4 +1,4 @@
-# Let Watermark Tell You the Truth
+# Let Watermarks Speak
 
 This is the code for the papar "Let Watermarks Speak: A Robust and Unforgeable Watermark for
 Language Models".
