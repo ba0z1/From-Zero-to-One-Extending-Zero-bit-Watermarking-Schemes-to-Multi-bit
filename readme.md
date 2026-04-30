@@ -1,7 +1,6 @@
 # Let Watermarks Speak
 
-This is the code for the papar "Let Watermarks Speak: A Robust and Unforgeable Watermark for
-Language Models".
+This is the code for the papar "Mirror Symmetric Sampling: Provably Distortion-free, Robust and Prefix-unforgeable Watermark for Language Models".
 
 ## Requirements
 ```
