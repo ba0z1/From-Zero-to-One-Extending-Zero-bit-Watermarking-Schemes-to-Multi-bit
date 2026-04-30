@@ -1,4 +1,4 @@
-# Let Watermarks Speak
+# Mirror Symmetric Sampling: Provably Distortion-free, Robust and Prefix-unforgeable Watermark for Language Models
 
 This is the code for the papar "Mirror Symmetric Sampling: Provably Distortion-free, Robust and Prefix-unforgeable Watermark for Language Models".
 
