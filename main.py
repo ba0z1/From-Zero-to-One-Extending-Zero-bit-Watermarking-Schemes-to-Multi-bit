@@ -150,7 +150,7 @@ def serve(generator, key, host, port):
         return verification_label(result), result["recovered_bits"], prefix
 
     with gr.Blocks() as demo:
-        gr.Markdown("# Let Watermarks Speak")
+        gr.Markdown("# From Zero to One: Extending Zero-bit Watermarking Schemes to Multi-bit")
         sample = gr.State()
         prompt = gr.Textbox(label="Prompt", value="What is watermarking?")
         payload = gr.Textbox(label="Custom payload bits (leave blank for hash-chain authentication)", value="")

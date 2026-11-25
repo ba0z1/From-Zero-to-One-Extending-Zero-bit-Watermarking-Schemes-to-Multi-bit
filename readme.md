@@ -1,6 +1,6 @@
-# Let Watermarks Speak
+# From Zero to One: Extending Zero-bit Watermarking Schemes to Multi-bit
 
-This repository implements *From Zero to One: Extending Zero-bit Watermarking Schemes to Multi-bit*. The generator embeds a fingerprint of the prompt, then fingerprints successive spans of generated tokens. A verifier recovers these fingerprints without loading the language model and reports how many response tokens it can authenticate.
+The generator embeds a fingerprint of the prompt, then fingerprints successive spans of generated tokens. A verifier recovers these fingerprints without loading the language model and reports how many response tokens it can authenticate.
 
 ## QuadWrite-1000
 
