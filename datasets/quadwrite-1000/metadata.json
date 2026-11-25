@@ -1,0 +1,51 @@
+{
+  "name": "QuadWrite-1000",
+  "version": "1.0.0",
+  "description": "English long-form writing prompts across four genres.",
+  "language": "en",
+  "dataset_type": "writing_instructions",
+  "license": "CC-BY-4.0",
+  "total_prompts": 1000,
+  "category_counts": {
+    "story": 250,
+    "travel": 250,
+    "dialogue": 250,
+    "essay": 250
+  },
+  "subset_counts": {
+    "original_100": 100,
+    "extension_900": 900
+  },
+  "requested_output_words": 1800,
+  "construction": {
+    "original_prompts": 100,
+    "extension_prompts": 900,
+    "extension_topics_per_category": 45,
+    "angles_per_category": 5,
+    "extension_topic_groups": 180,
+    "total_construction_groups": 280
+  },
+  "prompt_length_words": {
+    "minimum": 68,
+    "maximum": 94,
+    "mean": 84.943,
+    "median": 86.0,
+    "counting_method": "Whitespace-separated words."
+  },
+  "canonical_file": "data/prompts.jsonl",
+  "alternate_formats": [
+    "data/prompts.json",
+    "data/prompts.csv"
+  ],
+  "fields": [
+    "task_id",
+    "category",
+    "category_index",
+    "prompt",
+    "language",
+    "target_words",
+    "subset",
+    "topic_id",
+    "angle_id"
+  ]
+}
