@@ -1,0 +1,602 @@
+[
+  {
+    "task_id": "story_01",
+    "category": "story",
+    "category_index": 1,
+    "prompt": "Write an original literary story in English about a lighthouse keeper cataloguing unexplained deliveries in a coastal town over one winter. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_02",
+    "category": "story",
+    "category_index": 2,
+    "prompt": "Write an original literary story in English about two railway workers restoring service after a flood while discovering the history of an abandoned station. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_03",
+    "category": "story",
+    "category_index": 3,
+    "prompt": "Write an original literary story in English about a mountain radio operator and a visiting botanist following a sequence of weather reports. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_04",
+    "category": "story",
+    "category_index": 4,
+    "prompt": "Write an original literary story in English about an apprentice clockmaker tracing the ownership of a clock through several neighborhoods. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_05",
+    "category": "story",
+    "category_index": 5,
+    "prompt": "Write an original literary story in English about a seed-bank caretaker arranging a community garden after an unusually dry summer. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_01",
+    "category": "travel",
+    "category_index": 1,
+    "prompt": "Write an original detailed travelogue in English about a slow journey through five fictional river-delta islands, with ferries, markets, workshops, and evening conversations. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_02",
+    "category": "travel",
+    "category_index": 2,
+    "prompt": "Write an original detailed travelogue in English about a walking tour across a high plateau connecting observatories, shepherd shelters, and small railway stops. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_03",
+    "category": "travel",
+    "category_index": 3,
+    "prompt": "Write an original detailed travelogue in English about a journey along an old desert canal through towns that conserve water in different ways. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_04",
+    "category": "travel",
+    "category_index": 4,
+    "prompt": "Write an original detailed travelogue in English about a winter railway trip through a fictional northern region, stopping at libraries, harbors, and local museums. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_05",
+    "category": "travel",
+    "category_index": 5,
+    "prompt": "Write an original detailed travelogue in English about a coastal bicycle journey linking three small astronomical observatories and the villages around them. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_01",
+    "category": "dialogue",
+    "category_index": 1,
+    "prompt": "Write an original extended dialogue in English about a librarian and a civil engineer planning how to preserve a town archive during a bridge reconstruction. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_02",
+    "category": "dialogue",
+    "category_index": 2,
+    "prompt": "Write an original extended dialogue in English about a marine biologist and a historian debating how to record changes in a fishing harbor. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_03",
+    "category": "dialogue",
+    "category_index": 3,
+    "prompt": "Write an original extended dialogue in English about a repair-shop owner and a schoolteacher designing a workshop where students mend ordinary household objects. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_04",
+    "category": "dialogue",
+    "category_index": 4,
+    "prompt": "Write an original extended dialogue in English about a museum curator and a parent discussing how to explain a collection of everyday tools to children. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_05",
+    "category": "dialogue",
+    "category_index": 5,
+    "prompt": "Write an original extended dialogue in English about an architect and a forester comparing several proposals for a public reading room near a woodland. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_01",
+    "category": "essay",
+    "category_index": 1,
+    "prompt": "Write an original well-developed explanatory essay in English about how a mobile library could serve several fictional rural communities through a full year. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_02",
+    "category": "essay",
+    "category_index": 2,
+    "prompt": "Write an original well-developed explanatory essay in English about the practical and social roles of public clocks, shared calendars, and local timekeeping. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_03",
+    "category": "essay",
+    "category_index": 3,
+    "prompt": "Write an original well-developed explanatory essay in English about how community repair workshops could teach patient problem solving through everyday examples. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_04",
+    "category": "essay",
+    "category_index": 4,
+    "prompt": "Write an original well-developed explanatory essay in English about how careful field notes support citizen-science observations of gardens, birds, and seasonal changes. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_05",
+    "category": "essay",
+    "category_index": 5,
+    "prompt": "Write an original well-developed explanatory essay in English about how a neighborhood could document the history and changing use of a public park. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_06",
+    "category": "story",
+    "category_index": 6,
+    "prompt": "Write an original literary story in English about a traveling puppeteer returning to a city where the public square has been transformed since her childhood. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_07",
+    "category": "story",
+    "category_index": 7,
+    "prompt": "Write an original literary story in English about a night-shift hospital cook trying to recreate a meal described in an unsigned letter. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_08",
+    "category": "story",
+    "category_index": 8,
+    "prompt": "Write an original literary story in English about a retired translator and a young court interpreter sorting a family collection of recordings in two languages. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_09",
+    "category": "story",
+    "category_index": 9,
+    "prompt": "Write an original literary story in English about a furniture restorer uncovering the successive uses of a school desk before a village reunion. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_10",
+    "category": "story",
+    "category_index": 10,
+    "prompt": "Write an original literary story in English about a bakery apprentice taking responsibility for the morning deliveries when a town festival changes every familiar route. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_11",
+    "category": "story",
+    "category_index": 11,
+    "prompt": "Write an original literary story in English about a probationary firefighter learning to work with a volunteer crew during a week of false alarms and one genuine emergency. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_12",
+    "category": "story",
+    "category_index": 12,
+    "prompt": "Write an original literary story in English about a blind piano tuner and a theater caretaker preparing a long-closed concert hall for its first performance in decades. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_13",
+    "category": "story",
+    "category_index": 13,
+    "prompt": "Write an original literary story in English about a ferry captain deciding how to reconcile a new timetable with the needs of an isolated island community. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_14",
+    "category": "story",
+    "category_index": 14,
+    "prompt": "Write an original literary story in English about a teenager helping a grandparent sell a small grocery store while learning why several customers keep returning. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_15",
+    "category": "story",
+    "category_index": 15,
+    "prompt": "Write an original literary story in English about a ceramics student completing an unfinished commission left by a mentor who suddenly moves away. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_16",
+    "category": "story",
+    "category_index": 16,
+    "prompt": "Write an original literary story in English about a municipal translator mediating a dispute between neighbors about the name of a newly planted courtyard. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_17",
+    "category": "story",
+    "category_index": 17,
+    "prompt": "Write an original literary story in English about a costume designer repairing a damaged parade collection while rival neighborhood groups negotiate a shared celebration. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_18",
+    "category": "story",
+    "category_index": 18,
+    "prompt": "Write an original literary story in English about a beekeeper and a fruit grower testing their assumptions about a poor harvest through an entire spring. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_19",
+    "category": "story",
+    "category_index": 19,
+    "prompt": "Write an original literary story in English about a long-distance bus driver finding a passenger notebook whose observations change how she sees her regular route. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_20",
+    "category": "story",
+    "category_index": 20,
+    "prompt": "Write an original literary story in English about a competitive swimmer adjusting to life as a beginner in a community woodworking class. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_21",
+    "category": "story",
+    "category_index": 21,
+    "prompt": "Write an original literary story in English about a city sanitation worker and a sound artist collaborating on an exhibition about overlooked night work. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_22",
+    "category": "story",
+    "category_index": 22,
+    "prompt": "Write an original literary story in English about a university student accompanying a parent to clear a former family apartment and discovering conflicting memories of it. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_23",
+    "category": "story",
+    "category_index": 23,
+    "prompt": "Write an original literary story in English about a village pharmacist organizing medicine deliveries when a landslide closes the only road for several days. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_24",
+    "category": "story",
+    "category_index": 24,
+    "prompt": "Write an original literary story in English about a freelance illustrator caring for a neighbor's dog and gradually becoming involved in an unfamiliar apartment building. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "story_25",
+    "category": "story",
+    "category_index": 25,
+    "prompt": "Write an original literary story in English about a wedding photographer returning a misplaced album to a family preparing for a very different kind of gathering. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_06",
+    "category": "travel",
+    "category_index": 6,
+    "prompt": "Write an original detailed travelogue in English about a month-long journey through fictional tea-growing hills, following the harvest from family plots to sorting rooms and town auctions. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_07",
+    "category": "travel",
+    "category_index": 7,
+    "prompt": "Write an original detailed travelogue in English about a canoe trip through a temperate wetland, with reed-cutting villages, birdwatching hides, and campsites reached only by water. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_08",
+    "category": "travel",
+    "category_index": 8,
+    "prompt": "Write an original detailed travelogue in English about a series of overnight coach journeys between inland cities, observing roadside dining rooms, dawn terminals, and changing landscapes. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_09",
+    "category": "travel",
+    "category_index": 9,
+    "prompt": "Write an original detailed travelogue in English about a walking journey along a former industrial freight line converted into paths, gardens, and neighborhood gathering spaces. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_10",
+    "category": "travel",
+    "category_index": 10,
+    "prompt": "Write an original detailed travelogue in English about a visit to a fictional volcanic island during grape harvest, including terraced farms, hot springs, and a village music festival. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_11",
+    "category": "travel",
+    "category_index": 11,
+    "prompt": "Write an original detailed travelogue in English about a journey between desert pottery towns, tracing the different clays, kilns, and trading traditions encountered along the way. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_12",
+    "category": "travel",
+    "category_index": 12,
+    "prompt": "Write an original detailed travelogue in English about a spring journey through orchard valleys, staying with growers and following the work from pruning to blossom surveys. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_13",
+    "category": "travel",
+    "category_index": 13,
+    "prompt": "Write an original detailed travelogue in English about a trip by local buses through a fictional multilingual border region, attending markets, performances, and family-run inns. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_14",
+    "category": "travel",
+    "category_index": 14,
+    "prompt": "Write an original detailed travelogue in English about a coastal voyage on small cargo boats, observing loading crews, shipboard meals, and the daily rhythms of remote ports. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_15",
+    "category": "travel",
+    "category_index": 15,
+    "prompt": "Write an original detailed travelogue in English about a walking circuit through a large city's public stairways, connecting hillside homes, pocket gardens, and neighborhood cafes. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_16",
+    "category": "travel",
+    "category_index": 16,
+    "prompt": "Write an original detailed travelogue in English about a journey across grasslands with stops at livestock fairs, riding schools, and seasonal tent settlements. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_17",
+    "category": "travel",
+    "category_index": 17,
+    "prompt": "Write an original detailed travelogue in English about a visit to a chain of lake towns in autumn, following fish markets, boatbuilding sheds, and harvest celebrations. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_18",
+    "category": "travel",
+    "category_index": 18,
+    "prompt": "Write an original detailed travelogue in English about a slow trip through former mining settlements adapting old workshops and workers' housing for new uses. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_19",
+    "category": "travel",
+    "category_index": 19,
+    "prompt": "Write an original detailed travelogue in English about a journey through a fictional tropical upland region, visiting coffee farms, roadside fruit stalls, and cloud-forest trails. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_20",
+    "category": "travel",
+    "category_index": 20,
+    "prompt": "Write an original detailed travelogue in English about a tour of inhabited cave villages and their surrounding farmland, with attention to domestic routines, craft work, and shared courtyards. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_21",
+    "category": "travel",
+    "category_index": 21,
+    "prompt": "Write an original detailed travelogue in English about a month exploring an unfamiliar capital entirely on foot and by tram, moving between residential districts and civic landmarks. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_22",
+    "category": "travel",
+    "category_index": 22,
+    "prompt": "Write an original detailed travelogue in English about a trip following the route of a traveling chamber orchestra through small inland towns and improvised performance spaces. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_23",
+    "category": "travel",
+    "category_index": 23,
+    "prompt": "Write an original detailed travelogue in English about a journey through a salt-flat region, meeting salt gatherers, visiting caravan inns, and experiencing nights under open skies. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_24",
+    "category": "travel",
+    "category_index": 24,
+    "prompt": "Write an original detailed travelogue in English about a visit to a fictional archipelago during the boatbuilding season, observing timber selection, household workshops, and launch ceremonies. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "travel_25",
+    "category": "travel",
+    "category_index": 25,
+    "prompt": "Write an original detailed travelogue in English about a journey through a mountainous wool-producing region, connecting grazing grounds, spinning cooperatives, and textile markets. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_06",
+    "category": "dialogue",
+    "category_index": 6,
+    "prompt": "Write an original extended dialogue in English about a transit planner and a wheelchair user comparing bus-stop designs and the ordinary journeys those designs must support. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_07",
+    "category": "dialogue",
+    "category_index": 7,
+    "prompt": "Write an original extended dialogue in English about a restaurant cook and a food-bank coordinator planning how to reduce waste while providing dependable meals. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_08",
+    "category": "dialogue",
+    "category_index": 8,
+    "prompt": "Write an original extended dialogue in English about a theater director and a sign-language interpreter preparing a performance that can work for different audiences. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_09",
+    "category": "dialogue",
+    "category_index": 9,
+    "prompt": "Write an original extended dialogue in English about a tenant representative and a building manager negotiating shared quiet hours and access to common spaces. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_10",
+    "category": "dialogue",
+    "category_index": 10,
+    "prompt": "Write an original extended dialogue in English about a farmer and a water-system technician deciding how to repair an aging irrigation network during planting season. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_11",
+    "category": "dialogue",
+    "category_index": 11,
+    "prompt": "Write an original extended dialogue in English about a nurse and a radio producer planning an oral-history series about the changing routines of a local clinic. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_12",
+    "category": "dialogue",
+    "category_index": 12,
+    "prompt": "Write an original extended dialogue in English about a coach and a novice athlete discussing how to define progress during the first year of learning a sport. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_13",
+    "category": "dialogue",
+    "category_index": 13,
+    "prompt": "Write an original extended dialogue in English about a city gardener and a shopkeeper weighing street-tree planting against delivery access and pavement maintenance. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_14",
+    "category": "dialogue",
+    "category_index": 14,
+    "prompt": "Write an original extended dialogue in English about a translator and a novelist working through disagreements about humor, dialect, and cultural references in a manuscript. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_15",
+    "category": "dialogue",
+    "category_index": 15,
+    "prompt": "Write an original extended dialogue in English about a science teacher and a parent evaluating proposals for a school field trip with limited time and funding. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_16",
+    "category": "dialogue",
+    "category_index": 16,
+    "prompt": "Write an original extended dialogue in English about a delivery cyclist and a traffic engineer redesigning a junction used by workers, children, and commuters. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_17",
+    "category": "dialogue",
+    "category_index": 17,
+    "prompt": "Write an original extended dialogue in English about a festival organizer and a resident discussing how to preserve a neighborhood celebration while controlling noise and crowding. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_18",
+    "category": "dialogue",
+    "category_index": 18,
+    "prompt": "Write an original extended dialogue in English about a software designer and an older customer testing whether a public-service booking system matches real daily needs. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_19",
+    "category": "dialogue",
+    "category_index": 19,
+    "prompt": "Write an original extended dialogue in English about a carpenter and an archaeologist deciding how to demonstrate historical construction methods without damaging surviving materials. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_20",
+    "category": "dialogue",
+    "category_index": 20,
+    "prompt": "Write an original extended dialogue in English about a market vendor and a municipal inspector discussing how to introduce clearer labeling without overwhelming small stalls. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_21",
+    "category": "dialogue",
+    "category_index": 21,
+    "prompt": "Write an original extended dialogue in English about a choir conductor and a new member working out how rehearsals can accommodate different levels of musical experience. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_22",
+    "category": "dialogue",
+    "category_index": 22,
+    "prompt": "Write an original extended dialogue in English about a youth counselor and a sports-club manager planning a shared program for teenagers with conflicting schedules. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_23",
+    "category": "dialogue",
+    "category_index": 23,
+    "prompt": "Write an original extended dialogue in English about a journalist and a local statistician debating how to explain uncertain population estimates to newspaper readers. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_24",
+    "category": "dialogue",
+    "category_index": 24,
+    "prompt": "Write an original extended dialogue in English about a station manager and a passenger advocate comparing ways to handle missed connections during a timetable change. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "dialogue_25",
+    "category": "dialogue",
+    "category_index": 25,
+    "prompt": "Write an original extended dialogue in English about a landscape designer and a community volunteer choosing how to turn an unused courtyard into a space for several generations. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_06",
+    "category": "essay",
+    "category_index": 6,
+    "prompt": "Write an original well-developed explanatory essay in English about how a small city could coordinate bus timetables with school, hospital, and market hours while balancing different residents' needs. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_07",
+    "category": "essay",
+    "category_index": 7,
+    "prompt": "Write an original well-developed explanatory essay in English about how a shared community kitchen could organize equipment, food storage, training, and fair access across a full year. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_08",
+    "category": "essay",
+    "category_index": 8,
+    "prompt": "Write an original well-developed explanatory essay in English about how an amateur theater group could develop a production from the first rehearsal to the final performance with limited resources. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_09",
+    "category": "essay",
+    "category_index": 9,
+    "prompt": "Write an original well-developed explanatory essay in English about how accessible signage and clear spoken announcements affect everyday navigation through busy public buildings. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_10",
+    "category": "essay",
+    "category_index": 10,
+    "prompt": "Write an original well-developed explanatory essay in English about how a town could manage the reuse of construction materials while keeping records of quality and intended use. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_11",
+    "category": "essay",
+    "category_index": 11,
+    "prompt": "Write an original well-developed explanatory essay in English about how neighborhood sports clubs can welcome beginners while supporting experienced participants and volunteer coaches. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_12",
+    "category": "essay",
+    "category_index": 12,
+    "prompt": "Write an original well-developed explanatory essay in English about how a local food market could adapt its layout and routines to changing seasons, delivery patterns, and customer needs. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_13",
+    "category": "essay",
+    "category_index": 13,
+    "prompt": "Write an original well-developed explanatory essay in English about how a public swimming pool could balance lessons, exercise, recreation, maintenance, and equitable access. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_14",
+    "category": "essay",
+    "category_index": 14,
+    "prompt": "Write an original well-developed explanatory essay in English about how oral-history projects can represent disagreement and incomplete memories without losing the individuality of their contributors. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_15",
+    "category": "essay",
+    "category_index": 15,
+    "prompt": "Write an original well-developed explanatory essay in English about how a rural bus cooperative could coordinate drivers, maintenance, fares, and community feedback across dispersed villages. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_16",
+    "category": "essay",
+    "category_index": 16,
+    "prompt": "Write an original well-developed explanatory essay in English about how schools could teach basic measurement and estimation through cooking, building, mapping, and other ordinary activities. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_17",
+    "category": "essay",
+    "category_index": 17,
+    "prompt": "Write an original well-developed explanatory essay in English about how a town could maintain useful public information during a prolonged power outage through advance preparation and local cooperation. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_18",
+    "category": "essay",
+    "category_index": 18,
+    "prompt": "Write an original well-developed explanatory essay in English about how public seating influences everyday social life and the practical choices involved in placing and maintaining benches. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_19",
+    "category": "essay",
+    "category_index": 19,
+    "prompt": "Write an original well-developed explanatory essay in English about how a small publishing cooperative could organize editing, translation, printing, and distribution for local writers. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_20",
+    "category": "essay",
+    "category_index": 20,
+    "prompt": "Write an original well-developed explanatory essay in English about how a neighborhood tool-lending service could build trust through clear responsibilities, routine maintenance, and fair scheduling. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_21",
+    "category": "essay",
+    "category_index": 21,
+    "prompt": "Write an original well-developed explanatory essay in English about how a local festival could retain valued traditions while making room for new residents and changing patterns of participation. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_22",
+    "category": "essay",
+    "category_index": 22,
+    "prompt": "Write an original well-developed explanatory essay in English about how an urban apartment community could organize shared laundry facilities to reduce conflicts and accommodate different routines. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_23",
+    "category": "essay",
+    "category_index": 23,
+    "prompt": "Write an original well-developed explanatory essay in English about how a town could make walking routes to school more convenient through street design, timing, and community participation. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_24",
+    "category": "essay",
+    "category_index": 24,
+    "prompt": "Write an original well-developed explanatory essay in English about how a volunteer radio station could balance local news, music, training, and reliable operation throughout a week. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  },
+  {
+    "task_id": "essay_25",
+    "category": "essay",
+    "category_index": 25,
+    "prompt": "Write an original well-developed explanatory essay in English about how a community could turn an unused warehouse into a flexible space for work, recreation, and neighborhood services. Aim for approximately 1800 words. Develop concrete places, people, events, examples, and transitions rather than an outline. Use paragraphs and continue the same subject throughout. Include a few specific quantities, dates, or times where they arise naturally. Start directly with the text, without a preamble about this request."
+  }
+]
