@@ -27,4 +27,4 @@ python3 scripts/validate_dataset.py
 
 ## License
 
-The prompts, construction data, and metadata are licensed under [CC BY 4.0](LICENSE). Credit the QuadWrite-1000 contributors, link to the [project](https://github.com/ba0z1/Let_Watermarks_Speak) and [license](https://creativecommons.org/licenses/by/4.0/), and indicate any changes. The Python scripts use the repository's [MIT License](../../LICENSE).
+The prompts, construction data, and metadata are licensed under [CC BY 4.0](LICENSE). Credit the QuadWrite-1000 contributors, link to the [project](https://github.com/ba0z1/From-Zero-to-One-Extending-Zero-bit-Watermarking-Schemes-to-Multi-bit) and [license](https://creativecommons.org/licenses/by/4.0/), and indicate any changes. The Python scripts use the repository's [MIT License](../../LICENSE).
